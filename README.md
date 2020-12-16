@@ -1,5 +1,5 @@
 
-<img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
+<img align='center' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 &nbsp;
@@ -21,8 +21,8 @@ lorem ipsum  lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsuml
 
 <p>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=zchatoua)](https://github.com/ZackChOfficial/ZackChOfficial)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZackChOfficial&show_icons=true&theme=tokyonight)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=zchatoua)](https://github.com/ZackChOfficial/ZackChOfficial)&nbsp;&nbsp;
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZackChOfficial&show_icons=true&theme=tokyonight)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackChOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
