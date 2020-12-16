@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **ZackChOfficial/ZackChOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/ZackChOfficial/ZackChOfficial/master/assets/img.gif >
+
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=zchatoua)](https://github.com/mohouyizme/1337-readme)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZackChOfficial&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackChOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
