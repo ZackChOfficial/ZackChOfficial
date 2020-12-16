@@ -2,9 +2,13 @@
 <img align="center" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+&nbsp;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+&nbsp;
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+&nbsp;
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
 ## Hi 👋
@@ -21,4 +25,9 @@ lorem ipsum  lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsuml
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZackChOfficial&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackChOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</p>
+
+<p align='center'>
+<a href="https://twitter.com/ZACKCH_OFF"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/zakch/"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/linkedin.png?raw=true"></a>
 </p>
