@@ -30,6 +30,3 @@ lorem ipsum  lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsuml
 
 <a href="https://twitter.com/ZACKCH_OFF"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/zakch/"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/linkedin.png?raw=true"></a>
-
-
-<img src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/ing.gif?raw=true">
