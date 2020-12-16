@@ -14,7 +14,7 @@
 ## Hi 👋
 <p align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/ZackChOfficial/count.svg)
+![](https://komarev.com/ghpvc/?username=ZackChOfficial)
 </p>
 
 ---
