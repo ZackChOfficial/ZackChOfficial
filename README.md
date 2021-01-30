@@ -1,5 +1,5 @@
 
-<img align='center' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
+<div style="text-align:center"><img align='center' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" ></div>
 
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 &nbsp;
