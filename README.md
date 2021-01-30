@@ -2,6 +2,7 @@
 <div align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 <br/>
 
+<div align="center">
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 &nbsp;
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -13,7 +14,8 @@
 ![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 &nbsp;
 ![](https://komarev.com/ghpvc/?username=ZackChOfficial)
-
+</div>
+<br/>
 ## Hi 👋
 ---
 
