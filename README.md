@@ -22,7 +22,7 @@
 ## Hi 👋
 ---
 
-My name is zack and I’m a full-stack software engineer, js enthusiast, and a 1337 student(42 Network). Passionate about building things from the ground up and learning new stuff.
+My name is zakaria  and I’m a full-stack software engineer, js enthusiast, and a 1337 student(42 Network). Passionate about building things from the ground up and learning new stuff.
 
 ---
 
