@@ -27,7 +27,8 @@ My name is zack and I’m a full-stack software engineer, js enthusiast, and a 1
 ---
 
 
-<p>
+<p align="left">
+
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=zchatoua)](https://github.com/ZackChOfficial/ZackChOfficial)&nbsp;&nbsp;
 
