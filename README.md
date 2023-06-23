@@ -19,18 +19,15 @@
 </div>
 <br/>
 
-## Hi 👋
+## Hello 👋
 ---
 
-My name is zakaria  and I’m a full-stack software engineer, js enthusiast, and a 1337 alumni(42 Network). Passionate about building things from the ground up and learning new stuff.
+My name is zakaria  and I’m a full-stack software engineer, python and js enthusiast, and a 1337 alumni(42 Network). Passionate about building things from the ground up and learning new stuff.
 
 ---
 
 
 <p align="left">
-
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&email=hide&login=zchatoua)](https://github.com/ZackChOfficial/ZackChOfficial)&nbsp;&nbsp;
 
 <div align="right">
   
