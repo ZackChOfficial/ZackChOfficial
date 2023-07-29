@@ -1,46 +1,20 @@
+<h1 align="center">Hello, I'm Zack! 👋</h1>
 
-<div align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
-<br/>
+## About Me
+- I'm a full-stack web developer 
+- I love reading technical blogs and articles
+- I love connecting with others to talk tech, projects, and life
+- Always excited to try out new technologies and give feedback 
 
-<div align="center">
+## Projects
+- [Corewar](https://github.com/ZackChOfficial/corewar) - Core War is a 1984 programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs compete for control of a virtual computer. These battle programs are written in an abstract assembly language called Redcode.
+
+- [n-puzzle](https://n-puzzle-project.netlify.app/) - N Puzzle is a sliding blocks game that takes place on a k * k grid with ((k * k) - 1) tiles each numbered from 1 to N.this project aims to solve n-puzzle game with A* and similar algorithms.
   
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-&nbsp;
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-&nbsp;
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-&nbsp;
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
-&nbsp;
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-&nbsp;
-![](https://komarev.com/ghpvc/?username=ZackChOfficial)
+- [Fractol](https://github.com/ZackChOfficial/Fractol) - Fractol is a project aimed at exploring fractals, mathematical sets that exhibit a repeating pattern displayed at every scale.
 
-</div>
-<br/>
+- [portfolio](https://github.com/ZackChOfficial/portfolio) - WIP my personal portfolio
 
-## Hello 👋
----
-
-My name is zakaria  and I’m a full-stack software engineer, python and js enthusiast, and a 1337 alumni(42 Network). Passionate about building things from the ground up and learning new stuff.
-
----
-
-
-<p align="left">
-
-<div align="right">
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZackChOfficial&show_icons=true&theme=tokyonight)&nbsp;&nbsp;
-
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZackChOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-<p align="center">
-<a href="https://twitter.com/ZACKCH_OFF"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/zakch/"><img height="30" src="https://github.com/ZackChOfficial/ZackChOfficial/blob/main/assets/linkedin.png?raw=true"></a>
-
-</p>
+## Technologies
+- Frontend: Next.js, TypeScript, React
+- Backend: Python, Django, PostgreSQL
