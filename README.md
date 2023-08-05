@@ -15,6 +15,8 @@
 
 - [portfolio](https://github.com/ZackChOfficial/portfolio) - WIP my personal portfolio
 
+- [rachadoc](https://github.com/ZackChOfficial/rachadoc) - Patient Management System designed to help clinics and hospitals easily manage patient information and appointment scheduling.
+
 ## Technologies
 - Frontend: Next.js, TypeScript, React
 - Backend: Python, Django, PostgreSQL
