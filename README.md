@@ -13,7 +13,7 @@
   
 - [Fractol](https://github.com/ZackChOfficial/Fractol) - Fractol is a project aimed at exploring fractals, mathematical sets that exhibit a repeating pattern displayed at every scale.
 
-- [portfolio](https://github.com/ZackChOfficial/portfolio) - WIP my personal portfolio
+- [portfolio](https://github.com/ZackChOfficial/portfolio) - my personal portfolio
 
 - [rachadoc](https://github.com/ZackChOfficial/rachadoc) - Patient Management System designed to help clinics and hospitals easily manage patient information and appointment scheduling.
 
